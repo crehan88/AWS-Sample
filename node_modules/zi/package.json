@@ -1,0 +1,23 @@
+{
+  "name": "zi",
+  "version": "1.0.0",
+  "description": "CSS post-processor",
+  "main": "zi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lucaswadedavis/zi.git"
+  },
+  "keywords": [
+    "css",
+    "post-processor"
+  ],
+  "author": "Lucas Wade Davis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lucaswadedavis/zi/issues"
+  },
+  "homepage": "https://github.com/lucaswadedavis/zi"
+}
